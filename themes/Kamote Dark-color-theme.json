@@ -55,7 +55,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#c2baba"
+				"foreground": "#8c7b79"
 			}
 		},
 		{
@@ -75,7 +75,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#c2baba"
+				"foreground": "#CCC4C4"
 			}
 		},
 		{
@@ -108,7 +108,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#a09290"
+				"foreground": "#5b7872"
 			}
 		},
 		{
@@ -158,7 +158,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#9c5b3a"
+				"foreground": "#A15646"
 			}
 		},
 		{
@@ -174,7 +174,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#4e7873"
+				"foreground": "#9a8c98"
 			}
 		},
 		{
